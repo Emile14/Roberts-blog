@@ -8,9 +8,11 @@
     display:inline;
     margin-left: 90px;
     padding-left: 200px;
+    font-family:Arial;
 }
+
 .Enc{
-    background-color: palevioletred;
+    background-color: rgb(16, 162, 253);
 }
 .Bar:hover{
     color: rgb(158, 233, 168);
